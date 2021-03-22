@@ -46,7 +46,6 @@ export default {
 </script>
 
 <style>
-/* The switch - the box around the slider */
 
 .avatar{
   margin-right: auto;
@@ -65,12 +64,13 @@ export default {
 
 .grid{
   display: grid;
-  grid-template-columns: repeat(2fr, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(190px, 20fr));
   grid-template-rows: auto;
   gap: 40px 32px;
   margin: auto;
   width: 100%;
   margin: auto;
+  padding-left: 2rem;
 }
 
 .grid-item {

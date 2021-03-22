@@ -5,41 +5,75 @@
       <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
         <p class="lead">High Security Bitcoin</p>
       </div>
-      <div class="grid">
-        <div class="grid-item card">
-          <div class="card-header">
-            <h4> Yeti Bitcoin Wallet Level 3</h4>
+      <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+        <h1 class="display-4">Pricing</h1>
+        <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
+      </div>
+      <div class="container">
+        <div class="card-deck mb-3 text-center">
+          <div class="card mb-4 box-shadow">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Free</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$0 <small class="text-muted">/ mo</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>10 users included</li>
+                <li>2 GB of storage</li>
+                <li>Email support</li>
+                <li>Help center access</li>
+              </ul>
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+            </div>
           </div>
-          <div class="card-body">
-            <a type="button" href="https://Yeticold.com" class="w-100 btn btn-lg btn-primary">Get started</a>
+          <div class="card mb-4 box-shadow">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Pro</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$15 <small class="text-muted">/ mo</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>20 users included</li>
+                <li>10 GB of storage</li>
+                <li>Priority email support</li>
+                <li>Help center access</li>
+              </ul>
+              <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
+            </div>
           </div>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
+          <div class="card mb-4 box-shadow">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Enterprise</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>30 users included</li>
+                <li>15 GB of storage</li>
+                <li>Phone and email support</li>
+                <li>Help center access</li>
+              </ul>
+              <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+            </div>
+          </div>
+          <div class="card mb-4 box-shadow">
+            <div class="card-header">
+              <h4 class="my-0 font-weight-normal">Enterprise</h4>
+            </div>
+            <div class="card-body">
+              <h1 class="card-title pricing-card-title">$29 <small class="text-muted">/ mo</small></h1>
+              <ul class="list-unstyled mt-3 mb-4">
+                <li>30 users included</li>
+                <li>15 GB of storage</li>
+                <li>Phone and email support</li>
+                <li>Help center access</li>
+              </ul>
+              <button type="button" class="btn btn-lg btn-block btn-primary">Contact us</button>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
+    </div> 
   </div>
 </template>
 
@@ -57,5 +91,30 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
 </style>
