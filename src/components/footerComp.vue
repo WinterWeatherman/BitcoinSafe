@@ -1,55 +1,90 @@
 <template>
   
   <div class="footerComp">
-    <footer class="pt-4 my-md-5 pt-md-5 border-top">
+    <footer>
+      <h2 class='contributors'>Contributors</h2> 
+      <a type="button" class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5Kad|">See individal reviews and comments</a>
+     
       <div class="grid">
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
+            <img class="grid-img" src="../assets/bjdwecktwtimg.jpg">
+            <p class="grid-p-2">BJ Dweck</p>
+          </a>
+          <p class="grid-p">@bjdweck</p>
+          <p class="grip-p">Professional Bitcoin Consultant</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/zachherberttwrimg.jpg">
+            <p class="grid-p-2">Zach Herbert</p>
+          </a>
+          <p class="grid-p">@zachherbert</p>
+          <p class="grip-p">Founder, Foundation Devices</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/garylelandtwrimg.jpg">
+            <p class="grid-p-2">Gary Leland</p>
+          </a>
+          <p class="grid-p">@GaryLeland</p>
+          <p class="grip-p">Founder Bit Block Boom Bitcoin Conference</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/thibaudtwrimg.jpg">
+            <p class="grid-p-2">Thibaud Maréchal</p>
+          </a>
+          <p class="grid-p">@thibm_</p>
+          <p class="grip-p">Founder, Knox Custody</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/martindaletwrimg.jpg">
+            <p class="grid-p-2">Eric Martindale</p>
+          </a>
+          <p class="grid-p">@martindale</p>
+          <p class="grip-p">Bitcoin Side Chain Architect</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/somsenrubentwrimg.jpg">
+            <p class="grid-p-2">Somsen Ruben</p>
+          </a>
+          <p class="grid-p">@SomsenRuben</p>
+          <p class="grip-p">Bitcoin Side Chain Architect</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/sanket1729twrimg.jpg">
+            <p class="grid-p-2">Sanket Kanjalkar</p>
+          </a>
+          <p class="grid-p">@sanket1729</p>
+          <p class="grip-p">R&D at Blockstream</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/guyswannimg.png">
+            <p class="grid-p-2">Guy Swan</p>
+          </a>
+          <p class="grid-p">@TheCryptoconomy</p>
+          <p class="grip-p">Host of Bitcoin Audible and Shitcoin Insider</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/jwweatherman_twrimg.jpg">
             <p class="grid-p-2">JW Weatherman</p>
           </a>
-          <p class="grid-p">jwweatherman_</p>
+          <p class="grid-p">@jwweatherman_</p>
           <p class="grip-p">Sofware Security Expert</p>
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
+            <img class="grid-img" src="../assets/AaronvanWtwrimg.jpg">
+            <p class="grid-p-2">Aaron van Wirdum</p>
           </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a" style="cursor:unset;">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/logo.png">
-            <p class="grid-p-2">JW Weatherman</p>
-          </a>
-          <p class="grid-p">jwweatherman_</p>
-          <p class="grip-p">Sofware Security Expert</p>
+          <p class="grid-p">@AaronvanW</p>
+          <p class="grip-p">Technical Edtor, Bitcoin Magazine</p>
         </div>
       </div>
     </footer>
@@ -72,6 +107,21 @@ export default {
 
 .text-center{
   text-align: center;
+}
+
+.contributors{
+  margin: 0px 0px 12px;
+    font-size: 34px;
+    font-weight: 700;
+    line-height: 34px;
+    margin-left: 30px;
+}
+
+.footerLinkText{
+  font-weight: 700;
+  margin-left: 30px;
+  color: gray;
+  margin-bottom:25px;
 }
 
 

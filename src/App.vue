@@ -4,6 +4,10 @@
   <div id="app">
     <body>
       <headerComp></headerComp>
+      <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+        <h1 class="display-4">Bitcoin Safe</h1>
+        <p class="lead">Bitcoin storage solutions curated by Bitcoin experts. Ratings are averaged to make it easy to pick the best solution. </p>
+      </div>
       <div class="flex">
         <p class="left">High Security</p>
         <div>
@@ -12,12 +16,11 @@
             <span class="slider round"></span>
           </label>
         </div>
-        <p class="right">Fast Setup</p>
+        <p class="right">Fast and Easy</p>
       </div>
       <containerTwo v-if="highSecurity"></containerTwo>
       <containerOne v-else></containerOne>
-
-      <footerComp></footerComp>
+      <footerComp class='borderstyle'></footerComp>
     </body>
   </div>
 </template>
@@ -47,6 +50,18 @@ export default {
 
 <style>
 
+.pricing-header{
+  max-width: 700px;
+}
+
+.card-header-two {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: #007bff;
+    border-bottom: 1px solid #007bff;
+    color: white;
+}
+
 .avatar{
   margin-right: auto;
   margin-left: auto;
@@ -58,8 +73,18 @@ export default {
   border: solid gray 10px;
 }
 
+.card-border-bold{
+  border: 1px solid #007bff;
+}
+
 #app {
   width:100%;
+}
+
+.p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
 }
 
 .grid{
@@ -71,6 +96,15 @@ export default {
   width: 100%;
   margin: auto;
   padding-left: 2rem;
+  max-width: 900px;
+}
+
+.borderstyle {
+    width: 100%;
+    max-width: 1180px;
+    margin: auto;
+    border-top: 4px solid rgb(236, 239, 241);
+    padding: 28px 20px 40px;
 }
 
 .grid-item {
@@ -118,6 +152,20 @@ export default {
   padding: 8px;
 }
 
+.card-two {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #007bff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
 .custom-row{
   display: flex;
   flex: wrap;
@@ -146,8 +194,9 @@ export default {
 
 .switch {
   position: relative;
-  width: 60px;
-  height: 34px;
+  top: 4px;
+  width: 50px;
+  height: 18px;
 }
 
 /* Hide default HTML checkbox */
@@ -173,13 +222,19 @@ export default {
 .slider:before {
   position: absolute;
   content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
+  height: 15px;
+  width: 15px;
+  bottom: 1.5px;
+  right: 33.5px;
   background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
 }
 
 input:checked + .slider {
@@ -187,18 +242,18 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 2px #2196F3;
 }
 
 input:checked + .slider:before {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
-  transform: translateX(26px);
+  transform: translateX(32px);
 }
 
 /* Rounded sliders */
 .slider.round {
-  border-radius: 34px;
+  border-radius: 30px;
 }
 
 .slider.round:before {
