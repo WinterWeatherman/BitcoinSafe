@@ -50,6 +50,11 @@ export default {
 
 <style>
 
+body{
+   -webkit-appearance: none;
+   display: block;
+}
+
 .pricing-header{
   max-width: 43.75rem;
 }
@@ -75,6 +80,28 @@ export default {
 
 .card-border-bold{
   border: 0.06rem solid #007bff;
+}
+
+@media (min-width: 576px)
+.card-deck {
+    display: -webkit-box; 
+    display: -ms-flexbox;
+    display: flex; 
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+}
+
+@media (max-width: 576px)
+.card-deck {
+    display: -webkit-box; 
+    display: -ms-flexbox;
+    display: flex; 
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
 }
 
 #app {
