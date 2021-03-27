@@ -51,14 +51,14 @@ export default {
 <style>
 
 .pricing-header{
-  max-width: 700px;
+  max-width: 43.75rem;
 }
 
 .card-header-two {
-    padding: .75rem 1.25rem;
+    padding: 4.25% 10%;
     margin-bottom: 0;
     background-color: #007bff;
-    border-bottom: 1px solid #007bff;
+    border-bottom: 10% solid #007bff;
     color: white;
 }
 
@@ -70,11 +70,11 @@ export default {
   height: 50%;
   border-radius: 50%;
   display: block;
-  border: solid gray 10px;
+  border: solid gray 1%;
 }
 
 .card-border-bold{
-  border: 1px solid #007bff;
+  border: 0.06rem solid #007bff;
 }
 
 #app {
@@ -89,30 +89,30 @@ export default {
 
 .grid{
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(190px, 20fr));
+  grid-template-columns: repeat(auto-fit, minmax(11.8rem, 20fr));
   grid-template-rows: auto;
-  gap: 40px 32px;
+  gap: 2.5rem 2rem;
   margin: auto;
   width: 100%;
   margin: auto;
   padding-left: 2rem;
-  max-width: 900px;
+  max-width: 56rem;
 }
 
 .borderstyle {
     width: 100%;
-    max-width: 1180px;
+    max-width: 73.75rem;
     margin: auto;
-    border-top: 4px solid rgb(236, 239, 241);
-    padding: 28px 20px 40px;
+    border-top: .25rem solid rgb(236, 239, 241);
+    padding: 1.75rem 1.25rem 2.5rem;
 }
 
 .grid-item {
   height: 100%;
-  min-width: 0px;
+  min-width: 0rem;
   grid-column-end: span 1;
   grid-row-end: span 1;
-  width: 190px;
+  width: 11.8rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -122,34 +122,34 @@ export default {
 .grid-a {
   color: rgba(17, 51, 83, 0.6);
   cursor: pointer;
-  font-size: 16px;
+  font-size: 1rem;
   text-decoration: none;
   transition: color 0.25s ease 0s;
 }
 
 .grid-p {
-  margin: 0px;
-  font-size: 16px;
+  margin: 0rem;
+  font-size: 1rem;
   font-weight: 400;
   color: rgba(17, 51, 83, 0.6);
-  line-height: 24px;
+  line-height: 1.5rem;
   box-sizing: border-box;
 }
 
 .grid-p-2 {
-  margin: 0px;
-  font-size: 16px;
-  line-height: 32px;
+  margin: 0rem;
+  font-size: 1rem;
+  line-height: 2rem;
   color: rgb(5, 15, 25);
   font-weight: 600;
 }
 
 .grid-img {
   width: 100%;
-  margin-bottom: 24px;
+  margin-bottom: 1.5rem;
   border-radius: 50%;
-  border: 2px solid rgb(236, 239, 241);
-  padding: 8px;
+  border: 0.08rem solid rgb(236, 239, 241);
+  padding: 0.5rem;
 }
 
 .card-two {
@@ -162,7 +162,7 @@ export default {
     word-wrap: break-word;
     background-color: #007bff;
     background-clip: border-box;
-    border: 1px solid rgba(0,0,0,.125);
+    border: 0rem solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
 
@@ -172,11 +172,11 @@ export default {
 }
 
 .right{
-  margin-left: 10px;
+  margin-left: 0.6rem;
 }
 
 .left{
-  margin-right: 10px;
+  margin-right: 0.6rem;
 }
 
 .flex {
@@ -194,9 +194,9 @@ export default {
 
 .switch {
   position: relative;
-  top: 4px;
-  width: 50px;
-  height: 18px;
+  top: 0.25rem;
+  width: 3rem;
+  height: 1rem;
 }
 
 /* Hide default HTML checkbox */
@@ -222,14 +222,15 @@ export default {
 .slider:before {
   position: absolute;
   content: "";
-  height: 15px;
-  width: 15px;
-  bottom: 1.5px;
-  right: 33.5px;
+  height: 75%;
+  width: 25%;
+  bottom: 12.5%;
+  left: 4%;
   background-color: white;
   -webkit-transition: .3s;
   transition: .3s;
 }
+
 
 
 .lead {
@@ -242,21 +243,38 @@ input:checked + .slider {
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 2px #2196F3;
+  box-shadow: 0 0 0.08rem #2196F3;
 }
 
 input:checked + .slider:before {
-  -webkit-transform: translateX(26px);
-  -ms-transform: translateX(26px);
-  transform: translateX(32px);
+  -webkit-transform: translateX(1.5rem);
+  -ms-transform: translateX(2rem);
+  transform: translateX(2rem);
 }
 
 /* Rounded sliders */
 .slider.round {
-  border-radius: 30px;
+  border-radius: 1.6rem;
 }
 
 .slider.round:before {
   border-radius: 50%;
 }
+
+.container {
+  max-width: 60rem;
+}
+
+.pricing-header {
+  max-width: 43.75rem;
+}
+
+.card-deck .card {
+  min-width: 13rem;
+}
+
+.border-top { border-top: 0.06rem solid #e5e5e5; }
+.border-bottom { border-bottom: 0.06rem solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 </style>

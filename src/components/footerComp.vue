@@ -3,7 +3,7 @@
   <div class="footerComp">
     <footer>
       <h2 class='contributors'>Contributors</h2> 
-      <a type="button" class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5Kad|">See individal reviews and comments</a>
+      <a type="button" class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI">See individal reviews and comments</a>
      
       <div class="grid">
         <div class="grid-item">
@@ -110,18 +110,18 @@ export default {
 }
 
 .contributors{
-  margin: 0px 0px 12px;
-    font-size: 34px;
+  margin: 0rem 0rem 0.75rem;
+    font-size: 2.12rem;
     font-weight: 700;
-    line-height: 34px;
-    margin-left: 30px;
+    line-height: 2.12rem;
+    margin-left: 1.8rem;
 }
 
 .footerLinkText{
   font-weight: 700;
-  margin-left: 30px;
+  margin-left: 2.12rem;
   color: gray;
-  margin-bottom:25px;
+  margin-bottom: 1.5rem;
 }
 
 
@@ -136,7 +136,7 @@ ul {
 
 li {
   display: inline-block;
-  margin: 0 10px;
+  margin: 0 0.8rem;
 }
 
 a {
