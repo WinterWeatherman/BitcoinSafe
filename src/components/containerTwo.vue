@@ -16,7 +16,7 @@
                 <li>Terrible Privacy</li>
                 <li>Bad Theft Prevention</li>
               </ul>
-              <a type="button" class="btn btn-lg btn-block btn-primary" href="https://Bluewallet.io/#">Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary" href="https://Bluewallet.io/#">Get Started</a>
             </div>
           </div>
           <div class="card mb-4 box-shadow">
@@ -31,7 +31,7 @@
                 <li>Terrible Privacy</li>
                 <li>Bad Theft Prevention</li>
               </ul>
-              <a type="button" class="btn btn-lg btn-block btn-primary" href="https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US&gl=US">Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary" href="https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US&gl=US">Get Started</a>
             </div>
           </div>
           <div class="card card-border-bold mb-4 box-shadow">
@@ -46,7 +46,7 @@
                 <li>Bad Privacy</li>
                 <li>Good Theft Prevention</li>
               </ul>
-              <a type="button" class="btn btn-lg btn-block btn-primary" href='https://greenaddress.it/en/'>Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary" href='https://greenaddress.it/en/'>Get Started</a>
             </div>
           </div>
         </div>

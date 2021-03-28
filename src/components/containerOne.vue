@@ -16,7 +16,7 @@
                 <li>Excellent Privacy</li>
                 <li>Excellent Inheritance Safety</li>
               </ul>
-              <a type="button" class="btn btn-lg btn-block btn-primary" href='https://YetiCold.com'>Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary" href='https://YetiCold.com'>Get Started</a>
             </div>
           </div>
           <div class="card mb-4 box-shadow">
@@ -31,7 +31,7 @@
                 <li>Excellent Privacy</li>
                 <li>Excellent Inheritance Safety</li>
               </ul>
-              <a type="button" class="btn btn-lg btn-block btn-primary" href="http://YetiCold.com">Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary" href="http://YetiCold.com">Get Started</a>
             </div>
           </div>
           <div class="card card-border-bold mb-4 box-shadow">
@@ -46,7 +46,7 @@
                 <li>Good Privacy</li>
                 <li>Excellent Inheritance Safety</li>
               </ul>
-              <a type="button" class="btn btn-lg btn-block btn-primary" href="http://YetiCold.com">Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary" href="http://YetiCold.com">Get Started</a>
             </div>
           </div>
         </div>
