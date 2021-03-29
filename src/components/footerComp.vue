@@ -3,7 +3,7 @@
   <div class="footerComp">
     <footer>
       <h2 class='contributors'>Contributors</h2> 
-      <a type="button" class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI">See individal reviews and comments</a>
+      <a class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI">See individal reviews and comments</a>
      
       <div class="grid">
         <div class="grid-item">
