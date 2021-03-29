@@ -90,7 +90,6 @@ body{
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
     flex-direction: row;
-    min-width: 18 rem!important;
 }
 
 #app {
@@ -181,6 +180,7 @@ body{
     border: 0rem solid rgba(0,0,0,.125);
     border-radius: .25rem;
 }
+
 
 .custom-row{
   display: flex;
@@ -276,21 +276,30 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
 
 .container {
-  max-width: 60rem;
+  max-width: 960px;
 }
 
 .pricing-header {
-  max-width: 43.75rem;
+  max-width: 700px;
 }
 
 .card-deck .card {
-  min-width: 13rem;
+  min-width: 220px;
 }
 
-.border-top { border-top: 0.06rem solid #e5e5e5; }
-.border-bottom { border-bottom: 0.06rem solid #e5e5e5; }
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
 
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
 </style>
