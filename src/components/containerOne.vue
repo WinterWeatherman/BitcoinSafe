@@ -46,7 +46,7 @@
                 <li>Good Privacy</li>
                 <li>Excellent Inheritance Safety</li>
               </ul>
-              <a class="btn btn-lg btn-block btn-primary" href="http://YetiCold.com">Get Started</a>
+              <a class="btn btn-lg btn-block btn-bold" href="http://YetiCold.com">Get Started</a>
             </div>
           </div>
         </div>

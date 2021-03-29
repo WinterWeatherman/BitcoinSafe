@@ -46,7 +46,7 @@
                 <li>Bad Privacy</li>
                 <li>Good Theft Prevention</li>
               </ul>
-              <a class="btn btn-lg btn-block btn-primary" href='https://greenaddress.it/en/'>Get Started</a>
+              <a class="btn btn-lg btn-block btn-bold" href='https://greenaddress.it/en/'>Get Started</a>
             </div>
           </div>
         </div>

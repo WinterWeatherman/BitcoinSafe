@@ -9,7 +9,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/bjdwecktwtimg.jpg">
-            <p class="grid-p-2">BJ Dweck</p>
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=231067609">BJ Dweck</a>
           </a>
           <p class="grid-p">@bjdweck</p>
           <p class="grip-p">Professional Bitcoin Consultant</p>
@@ -17,7 +17,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/zachherberttwrimg.jpg">
-            <p class="grid-p-2">Zach Herbert</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=2095737509" class="grid-p-2">Zach Herbert</a>
           </a>
           <p class="grid-p">@zachherbert</p>
           <p class="grip-p">Founder, Foundation Devices</p>
@@ -25,7 +25,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/garylelandtwrimg.jpg">
-            <p class="grid-p-2">Gary Leland</p>
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1893725614">Gary Leland</a>
           </a>
           <p class="grid-p">@GaryLeland</p>
           <p class="grip-p">Founder Bit Block Boom Bitcoin Conference</p>
@@ -33,7 +33,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/thibaudtwrimg.jpg">
-            <p class="grid-p-2">Thibaud Maréchal</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1923249152" class="grid-p-2">Thibaud Maréchal</a>
           </a>
           <p class="grid-p">@thibm_</p>
           <p class="grip-p">Founder, Knox Custody</p>
@@ -41,7 +41,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/martindaletwrimg.jpg">
-            <p class="grid-p-2">Eric Martindale</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=650354169" class="grid-p-2">Eric Martindale</a>
           </a>
           <p class="grid-p">@martindale</p>
           <p class="grip-p">Bitcoin Side Chain Architect</p>
@@ -49,15 +49,15 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/somsenrubentwrimg.jpg">
-            <p class="grid-p-2">Somsen Ruben</p>
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=595318338">Somsen Ruben</a>
           </a>
           <p class="grid-p">@SomsenRuben</p>
-          <p class="grip-p">Bitcoin Side Chain Architect</p>
+          <a class="grip-p">Bitcoin Side Chain Architect</a>
         </div>
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/sanket1729twrimg.jpg">
-            <p class="grid-p-2">Sanket Kanjalkar</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1480472564" class="grid-p-2">Sanket Kanjalkar</a>
           </a>
           <p class="grid-p">@sanket1729</p>
           <p class="grip-p">R&D at Blockstream</p>
@@ -65,7 +65,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/guyswannimg.png">
-            <p class="grid-p-2">Guy Swan</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1347193643" class="grid-p-2">Guy Swan</a>
           </a>
           <p class="grid-p">@TheCryptoconomy</p>
           <p class="grip-p">Host of Bitcoin Audible and Shitcoin Insider</p>
@@ -73,7 +73,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/jwweatherman_twrimg.jpg">
-            <p class="grid-p-2">JW Weatherman</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1233924495" class="grid-p-2">JW Weatherman</a>
           </a>
           <p class="grid-p">@jwweatherman_</p>
           <p class="grip-p">Sofware Security Expert</p>
@@ -81,7 +81,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/AaronvanWtwrimg.jpg">
-            <p class="grid-p-2">Aaron van Wirdum</p>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1160014395" class="grid-p-2">Aaron van Wirdum</a>
           </a>
           <p class="grid-p">@AaronvanW</p>
           <p class="grip-p">Technical Edtor, Bitcoin Magazine</p>
@@ -122,6 +122,7 @@ export default {
   margin-left: 2.12rem;
   color: gray;
   margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
 }
 
 
