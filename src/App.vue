@@ -2,6 +2,7 @@
 
 <template>
   <div id="app">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <body>
       <headerComp></headerComp>
       <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
