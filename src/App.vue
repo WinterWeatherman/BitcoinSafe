@@ -82,7 +82,6 @@ body{
   border: 0.06rem solid #007bff;
 }
 
-@media (min-width: 576px)
 .card-deck {
     display: -webkit-box; 
     display: -ms-flexbox;
@@ -91,17 +90,7 @@ body{
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
     flex-direction: row;
-}
-
-@media (max-width: 576px)
-.card-deck {
-    display: -webkit-box; 
-    display: -ms-flexbox;
-    display: flex; 
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
+    min-width: 18 rem!important;
 }
 
 #app {
