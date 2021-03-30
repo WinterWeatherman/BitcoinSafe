@@ -2,6 +2,7 @@
 
 <template>
   <div id="app">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <body>
       <headerComp></headerComp>
       <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
@@ -49,14 +50,21 @@ export default {
 </script>
 
 <style>
-
-body{
-   -webkit-appearance: none;
-   display: block;
+html {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
 }
 
-.pricing-header{
-  max-width: 43.75rem;
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
 }
 
 .btn-primary {
@@ -93,36 +101,6 @@ body{
 
 .card-border-bold{
   border: 0.06rem solid #007bff;
-}
-
-@media (min-width: 576px)
-.card-deck {
-    display: -webkit-box; 
-    display: -ms-flexbox;
-    display: flex; 
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
-}
-
-@media (max-width: 576px)
-.card-deck {
-    display: -webkit-box; 
-    display: -ms-flexbox;
-    display: flex; 
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: column;
-    flex-direction: column;
-
-}
-
-@media (max-width: 576px)
-
-
-#app {
-  width:100%;
 }
 
 .p {
@@ -228,6 +206,7 @@ body{
     border-radius: .25rem;
 }
 
+
 .custom-row{
   display: flex;
   flex: wrap;
@@ -269,14 +248,12 @@ body{
   height: 34px;
 }
 
-/* Hide default HTML checkbox */
 .switch input {
   opacity: 0;
   width: 0;
   height: 0;
 }
 
-/* The slider */
 .slider {
   position: absolute;
   cursor: pointer;
@@ -297,8 +274,16 @@ body{
   left: 4px;
   bottom: 4px;
   background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.slider.round {
+  border-radius: 1.6rem;
+}
+
+.slider.round:before {
+  border-radius: 50%;
 }
 
 input:checked + .slider {
