@@ -121,7 +121,6 @@ html {
   gap: 2.5rem 2rem;
   margin: auto;
   width: 100%;
-  padding-left: 2rem;
   padding-top: 2.5rem;
   max-width: 56rem;
 }
