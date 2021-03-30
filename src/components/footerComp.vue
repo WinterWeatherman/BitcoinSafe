@@ -3,7 +3,7 @@
   <div class="footerComp">
     <footer>
       <h2 class='contributors'>Contributors</h2> 
-      <a class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI">See individal reviews and comments</a>
+      <a class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI">See all review data</a>
      
       <div class="grid">
         <div class="grid-item">
@@ -119,10 +119,11 @@ export default {
 
 .footerLinkText{
   font-weight: 700;
-  margin-left: 2.12rem;
-  color: gray;
+  margin-left: 2rem;
+  color: rgba(17, 51, 83, 0.6);
   margin-bottom: 1.5rem;
   padding-bottom: 1rem;
+  text-decoration: underline;
 }
 
 
