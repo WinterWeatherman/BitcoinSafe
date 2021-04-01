@@ -16,8 +16,8 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/heavilyarmedctwt.jpg">
-            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=538338319">Heavily Armed Clown</a>
+	    <img class="grid-img" src="../assets/Heavilyarmedctwt.jpg">            
+	    <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=538338319">Heavily Armed Clown</a>
           </a>
           <p class="grid-p">@heavilyarmedc</p>
           <p class="grip-p">Co-Creator WTF Happened in 1971</p>
