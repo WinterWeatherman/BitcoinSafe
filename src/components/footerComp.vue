@@ -68,7 +68,7 @@
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=790478071">Kalle Rosenbaum</a>
           </a>
           <p class="grid-p">@kallerosenbaum</p>
-          <a class="grip-p">Author of Grokkng Bitcoin</a>
+          <a class="grip-p">Author of Grokking Bitcoin</a>
         </div>
         <div class="grid-item">
           <a class="grid-a">
@@ -97,7 +97,7 @@
         <div class="grid-item">
           <a class="grid-a">
             <img class="grid-img" src="../assets/LeoWanderslebTWTR.jpg">
-            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1233924495" class="grid-p-2">Leo Wandersleb</a>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=825533859" class="grid-p-2">Leo Wandersleb</a>
           </a>
           <p class="grid-p">@LeoWandersleb</p>
           <p class="grip-p">Founder walletscrutiny.com</p>
@@ -116,7 +116,7 @@
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1160014395" class="grid-p-2">Aaron van Wirdum</a>
           </a>
           <p class="grid-p">@AaronvanW</p>
-          <p class="grip-p">Technical Edtor, Bitcoin Magazine</p>
+          <p class="grip-p">Technical Editor, Bitcoin Magazine</p>
         </div>
       </div>
     </footer>
