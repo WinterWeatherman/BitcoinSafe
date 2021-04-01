@@ -16,6 +16,14 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
+            <img class="grid-img" src="../assets/heavilyarmedctwt.jpg">
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=538338319">Heavily Armed Clown</a>
+          </a>
+          <p class="grid-p">@heavilyarmedc</p>
+          <p class="grip-p">Co-Creator WTF Happened in 1971</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
             <img class="grid-img" src="../assets/zachherberttwrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=2095737509" class="grid-p-2">Zach Herbert</a>
           </a>
@@ -32,6 +40,14 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
+            <img class="grid-img" src="../assets/AnselLindnerTWTR.jpg">
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=585969656">Ansel Lindner</a>
+          </a>
+          <p class="grid-p">@AnselLindner</p>
+          <p class="grip-p">Editor-and-Chief at Bitcoin & Markets Research</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
             <img class="grid-img" src="../assets/thibaudtwrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1923249152" class="grid-p-2">Thibaud Maréchal</a>
           </a>
@@ -45,6 +61,14 @@
           </a>
           <p class="grid-p">@martindale</p>
           <p class="grip-p">Bitcoin Side Chain Architect</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
+            <img class="grid-img" src="../assets/kallerosenbaumtwtr.jpg">
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=790478071">Kalle Rosenbaum</a>
+          </a>
+          <p class="grid-p">@kallerosenbaum</p>
+          <a class="grip-p">Author of Grokkng Bitcoin</a>
         </div>
         <div class="grid-item">
           <a class="grid-a">
@@ -72,8 +96,16 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
+            <img class="grid-img" src="../assets/LeoWanderslebTWTR.jpg">
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1233924495" class="grid-p-2">Leo Wandersleb</a>
+          </a>
+          <p class="grid-p">@LeoWandersleb</p>
+          <p class="grip-p">Founder walletscrutiny.com</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
             <img class="grid-img" src="../assets/jwweatherman_twrimg.jpg">
-            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1233924495" class="grid-p-2">JW Weatherman</a>
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=825533859" class="grid-p-2">JW Weatherman</a>
           </a>
           <p class="grid-p">@jwweatherman_</p>
           <p class="grip-p">Sofware Security Expert</p>

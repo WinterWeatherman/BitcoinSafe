@@ -21,6 +21,9 @@
       </div>
       <containerTwo v-if="highSecurity"></containerTwo>
       <containerOne v-else></containerOne>
+      <div class="center">
+        <img class="center longimg" src="./assets/BitcoinSafeimg.png">
+      </div>
       <footerComp class='borderstyle'></footerComp>
     </body>
   </div>
@@ -59,6 +62,7 @@ html {
   }
 }
 
+
 .container {
   max-width: 960px;
 }
@@ -86,6 +90,23 @@ html {
     background-color: #007bff;
     border-bottom: .006rem solid #007bff;
     color: white;
+}
+
+
+
+@media only screen and (min-width: 729px) {
+  .longimg {
+    max-width: 95%;
+    height: auto;
+    width: auto;
+  } 
+}
+
+
+@media only screen and (max-width: 729px){
+  .longimg {
+    display: none!important;
+  }
 }
 
 .avatar{
@@ -260,7 +281,7 @@ html {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #ccc;
+  background-color: #2196F3;
   -webkit-transition: .4s;
   transition: .4s;
 }
