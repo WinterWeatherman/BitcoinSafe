@@ -64,6 +64,14 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
+            <img class="grid-img" src="../assets/ArmanTheParman.jpg">
+            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1160897402" class="grid-p-2">Arman Parman</a>
+          </a>
+          <p class="grid-p">@ArmanTheParman</p>
+          <p class="grip-p">Bitcoin Self Custody Mentor</p>
+        </div>
+        <div class="grid-item">
+          <a class="grid-a">
             <img class="grid-img" src="../assets/kallerosenbaumtwtr.jpg">
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=790478071">Kalle Rosenbaum</a>
           </a>
@@ -93,14 +101,6 @@
           </a>
           <p class="grid-p">@TheCryptoconomy</p>
           <p class="grip-p">Host of Bitcoin Audible and Shitcoin Insider</p>
-        </div>
-        <div class="grid-item">
-          <a class="grid-a">
-            <img class="grid-img" src="../assets/LeoWanderslebTWTR.jpg">
-            <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=825533859" class="grid-p-2">Leo Wandersleb</a>
-          </a>
-          <p class="grid-p">@LeoWandersleb</p>
-          <p class="grip-p">Founder walletscrutiny.com</p>
         </div>
         <div class="grid-item">
           <a class="grid-a">

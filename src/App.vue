@@ -21,7 +21,10 @@
       </div>
       <containerTwo v-if="highSecurity"></containerTwo>
       <containerOne v-else></containerOne>
-      <div class="center">
+      <div class="center line">
+        <iframe id="external" class="center divvid" src="https://www.youtube.com/embed/NMLIVu3uVFc"></iframe>
+      </div>
+      <div class="center line">
         <img class="center longimg" src="./assets/BitcoinSafeimg.png">
       </div>
       <footerComp class='borderstyle'></footerComp>
@@ -35,6 +38,8 @@ import headerComp from './components/headerComp'
 import containerOne from './components/containerOne'
 import containerTwo from './components/containerTwo'
 import footerComp from './components/footerComp'
+import $ from "jquery";
+
 
 export default {
   name: 'app',
@@ -43,6 +48,14 @@ export default {
     containerOne,
     containerTwo,
     footerComp
+  },
+  mounted () {
+    var SetIframeSize = () => {
+        $("#external").width($(window).width() / 1.5); // added margin for scrollbars
+        $("#external").height($(window).width() / 2);
+    }
+    $(window).on('resize', SetIframeSize);
+    SetIframeSize()
   },
   data () {
     return {
@@ -60,6 +73,20 @@ html {
   html {
     font-size: 16px;
   }
+}
+
+.divvid{
+    height: 500;
+    width: 500;
+}
+
+
+.line{
+    width: 100%;
+    max-width: 1180px;
+    margin: auto;
+    border-top: 4px solid rgb(236, 239, 241);
+    padding: 2rem 2rem 2rem;
 }
 
 
@@ -96,7 +123,7 @@ html {
 
 @media only screen and (min-width: 729px) {
   .longimg {
-    max-width: 95%;
+    max-width: 60%;
     height: auto;
     width: auto;
   } 
@@ -336,6 +363,7 @@ input:checked + .slider:before {
 .pricing-header {
   max-width: 43.75rem;
 }
+
 
 .card-deck .card {
   min-width: 13rem;
