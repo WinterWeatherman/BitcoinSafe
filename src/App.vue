@@ -87,7 +87,7 @@ html {
     max-width: 1180px;
     margin: auto;
     border-top: 4px solid rgb(236, 239, 241);
-    padding: 2rem 2rem 2rem;
+    padding: 2rem 2rem 3rem;
 }
 
 .margin-bottom{
@@ -130,6 +130,7 @@ html {
     max-width: 50%;
     height: auto;
     width: auto;
+    padding-bottom: 3rem;
   } 
 }
 
