@@ -22,9 +22,10 @@
       <containerTwo v-if="highSecurity"></containerTwo>
       <containerOne v-else></containerOne>
       <div class="center line">
+        <h2 class="headertext margin-bottom">About BitcoinSafe.io</h2>
         <iframe id="external" class="center divvid" src="https://www.youtube.com/embed/NMLIVu3uVFc"></iframe>
       </div>
-      <div class="center line">
+      <div class="center">
         <img class="center longimg" src="./assets/BitcoinSafeimg.png">
       </div>
       <footerComp class='borderstyle'></footerComp>
@@ -51,8 +52,8 @@ export default {
   },
   mounted () {
     var SetIframeSize = () => {
-        $("#external").width($(window).width() / 1.5); // added margin for scrollbars
-        $("#external").height($(window).width() / 2);
+        $("#external").width($(window).width() / 2); // added margin for scrollbars
+        $("#external").height($(window).width() / 3);
     }
     $(window).on('resize', SetIframeSize);
     SetIframeSize()
@@ -86,9 +87,12 @@ html {
     max-width: 1180px;
     margin: auto;
     border-top: 4px solid rgb(236, 239, 241);
-    padding: 2rem 2rem 2rem;
+    padding: 2rem 2rem 3rem;
 }
 
+.margin-bottom{
+  padding-bottom: 2rem;
+}
 
 .container {
   max-width: 960px;
@@ -123,9 +127,10 @@ html {
 
 @media only screen and (min-width: 729px) {
   .longimg {
-    max-width: 60%;
+    max-width: 50%;
     height: auto;
     width: auto;
+    padding-bottom: 3rem;
   } 
 }
 
@@ -364,6 +369,13 @@ input:checked + .slider:before {
   max-width: 43.75rem;
 }
 
+.headertext{
+  margin: 0rem 0rem 0.75rem;
+    font-size: 2.12rem;
+    font-weight: 700;
+    line-height: 2.12rem;
+    margin-left: 1.8rem;
+}
 
 .card-deck .card {
   min-width: 13rem;
