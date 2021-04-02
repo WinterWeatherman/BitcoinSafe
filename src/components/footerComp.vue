@@ -151,6 +151,13 @@ export default {
   text-decoration: underline;
 }
 
+.headertext{
+  margin: 0rem 0rem 0.75rem;
+    font-size: 2.12rem;
+    font-weight: 700;
+    line-height: 2.12rem;
+    margin-left: 1.8rem;
+}
 
 h1, h2 {
   font-weight: normal;
