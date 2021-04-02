@@ -2,7 +2,7 @@
   
   <div class="footerComp">
     <footer>
-      <h2 class='contributors'>Contributors</h2> 
+      <h2 class='headertext'>Contributors</h2> 
       <a class='footerLinkText' href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI">See all review data</a>
      
       <div class="grid">
@@ -141,13 +141,6 @@ export default {
   text-align: center;
 }
 
-.contributors{
-  margin: 0rem 0rem 0.75rem;
-    font-size: 2.12rem;
-    font-weight: 700;
-    line-height: 2.12rem;
-    margin-left: 1.8rem;
-}
 
 .footerLinkText{
   font-weight: 700;

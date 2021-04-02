@@ -22,6 +22,7 @@
       <containerTwo v-if="highSecurity"></containerTwo>
       <containerOne v-else></containerOne>
       <div class="center line">
+        <h2 class="headertext margin-bottom">About BitcoinSafe.io</h2>
         <iframe id="external" class="center divvid" src="https://www.youtube.com/embed/NMLIVu3uVFc"></iframe>
       </div>
       <div class="center">
@@ -89,6 +90,9 @@ html {
     padding: 2rem 2rem 2rem;
 }
 
+.margin-bottom{
+  padding-bottom: 2rem;
+}
 
 .container {
   max-width: 960px;
@@ -364,6 +368,13 @@ input:checked + .slider:before {
   max-width: 43.75rem;
 }
 
+.headertext{
+  margin: 0rem 0rem 0.75rem;
+    font-size: 2.12rem;
+    font-weight: 700;
+    line-height: 2.12rem;
+    margin-left: 1.8rem;
+}
 
 .card-deck .card {
   min-width: 13rem;
