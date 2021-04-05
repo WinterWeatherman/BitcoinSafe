@@ -26,7 +26,7 @@
         <iframe id="external" class="center divvid" src="https://www.youtube.com/embed/NMLIVu3uVFc"></iframe>
       </div>
       <div class="center">
-        <img class="center longimg" src="./assets/BitcoinSafeimg.png">
+        <img class="center longimg" src="https://res.cloudinary.com/sheouth/image/upload/v1617644270/BitcoinSafe/BitcoinSafeimg.png">
       </div>
       <footerComp class='borderstyle'></footerComp>
     </body>
