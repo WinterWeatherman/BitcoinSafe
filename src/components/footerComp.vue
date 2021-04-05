@@ -8,7 +8,7 @@
       <div class="grid">
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/bjdwecktwtimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644270/BitcoinSafe/bjdwecktwtimg.jpg">
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=231067609">BJ Dweck</a>
           </a>
           <p class="grid-p">@bjdweck</p>
@@ -16,15 +16,15 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-	    <img class="grid-img" src="../assets/Heavilyarmedctwt.jpg">            
-	    <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=538338319">Heavily Armed Clown</a>
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/Heavilyarmedctwt.jpg">
+            <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=538338319">Heavily Armed Clown</a>
           </a>
           <p class="grid-p">@heavilyarmedc</p>
           <p class="grip-p">Co-Creator WTF Happened in 1971</p>
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/zachherberttwrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/zachherberttwrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=2095737509" class="grid-p-2">Zach Herbert</a>
           </a>
           <p class="grid-p">@zachherbert</p>
@@ -32,7 +32,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/garylelandtwrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644270/BitcoinSafe/garylelandtwrimg.jpg">
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1893725614">Gary Leland</a>
           </a>
           <p class="grid-p">@GaryLeland</p>
@@ -40,7 +40,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/AnselLindnerTWTR.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644270/BitcoinSafe/AnselLindnerTWTR.jpg">
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=585969656">Ansel Lindner</a>
           </a>
           <p class="grid-p">@AnselLindner</p>
@@ -48,7 +48,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/thibaudtwrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/thibaudtwrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1923249152" class="grid-p-2">Thibaud Maréchal</a>
           </a>
           <p class="grid-p">@thibm_</p>
@@ -56,7 +56,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/martindaletwrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/martindaletwrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=650354169" class="grid-p-2">Eric Martindale</a>
           </a>
           <p class="grid-p">@martindale</p>
@@ -64,7 +64,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/ArmanTheParman.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644270/BitcoinSafe/ArmanTheParman.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1160897402" class="grid-p-2">Arman Parman</a>
           </a>
           <p class="grid-p">@ArmanTheParman</p>
@@ -72,7 +72,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/kallerosenbaumtwtr.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/kallerosenbaumtwtr.jpg">
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=790478071">Kalle Rosenbaum</a>
           </a>
           <p class="grid-p">@kallerosenbaum</p>
@@ -80,7 +80,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/somsenrubentwrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/somsenrubentwrimg.jpg">
             <a class="grid-p-2" href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=595318338">Somsen Ruben</a>
           </a>
           <p class="grid-p">@SomsenRuben</p>
@@ -88,7 +88,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/sanket1729twrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/sanket1729twrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1480472564" class="grid-p-2">Sanket Kanjalkar</a>
           </a>
           <p class="grid-p">@sanket1729</p>
@@ -96,7 +96,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/guyswannimg.png">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/guyswannimg.png">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1347193643" class="grid-p-2">Guy Swan</a>
           </a>
           <p class="grid-p">@TheCryptoconomy</p>
@@ -104,7 +104,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/jwweatherman_twrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644271/BitcoinSafe/jwweatherman_twrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=825533859" class="grid-p-2">JW Weatherman</a>
           </a>
           <p class="grid-p">@jwweatherman_</p>
@@ -112,7 +112,7 @@
         </div>
         <div class="grid-item">
           <a class="grid-a">
-            <img class="grid-img" src="../assets/AaronvanWtwrimg.jpg">
+            <img class="grid-img" src="https://res.cloudinary.com/sheouth/image/upload/v1617644270/BitcoinSafe/AaronvanWtwrimg.jpg">
             <a href="https://docs.google.com/spreadsheets/d/1BxAiGnhCfFifd6T6Ky1m3gwdePvuS6QteXsc5KadlPI/edit#gid=1160014395" class="grid-p-2">Aaron van Wirdum</a>
           </a>
           <p class="grid-p">@AaronvanW</p>
