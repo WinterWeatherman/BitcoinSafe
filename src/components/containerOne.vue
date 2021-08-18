@@ -9,7 +9,7 @@
               <h4 class="my-0 font-weight-normal">Yeti Bitcoin Level 1</h4>
             </div>
             <div class="card-body">
-              <h1 class="card-title pricing-card-title">$5</h1>
+              <h1 class="card-title pricing-card-title">$0</h1>
               <ul class="list-unstyled mt-3 mb-4">
                 <li>Excellent Loss Protection</li>
                 <li>Ok Theft Prevention</li>
@@ -24,7 +24,7 @@
               <h4 class="my-0 font-weight-normal">Yeti Bitcoin Level 2</h4>
             </div>
             <div class="card-body">
-              <h1 class="card-title pricing-card-title">$7</h1>
+              <h1 class="card-title pricing-card-title">$0</h1>
               <ul class="list-unstyled mt-3 mb-4">
                 <li>Excellent Loss Protection</li>
                 <li>Good Theft Prevention</li>
@@ -39,7 +39,7 @@
               <h4 class="my-0 font-weight-normal">Yeti Bitcoin Level 3</h4>
             </div>
             <div class="card-body">
-              <h1 class="card-title pricing-card-title">$10</h1>
+              <h1 class="card-title pricing-card-title">$0</h1>
               <ul class="list-unstyled mt-3 mb-4">
                 <li>Excellent Loss Protection</li>
                 <li>Excellent Theft Prevention</li>
