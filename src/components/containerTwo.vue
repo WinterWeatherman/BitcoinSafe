@@ -34,7 +34,7 @@
               <a class="btn btn-lg btn-block btn-primary" href="https://play.google.com/store/apps/details?id=fr.acinq.eclair.wallet.mainnet2&hl=en_US&gl=US">Get Started</a>
             </div>
           </div>
-          <div class="card card-border-bold mb-4 box-shadow">
+          <div class="card mb-4 box-shadow">
             <div class="card-header card-header-two">
               <h4 class="my-0 font-weight-normal">Green Address</h4>
             </div>
@@ -46,7 +46,7 @@
                 <li>Bad Privacy</li>
                 <li>Good Theft Prevention</li>
               </ul>
-              <a class="btn btn-lg btn-block btn-bold" href='https://greenaddress.it/en/'>Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary btn-bold" href='https://greenaddress.it/en/'>Get Started</a>
             </div>
           </div>
         </div>

@@ -34,7 +34,7 @@
               <a class="btn btn-lg btn-block btn-primary" href="http://YetiCold.com">Get Started</a>
             </div>
           </div>
-          <div class="card card-border-bold mb-4 box-shadow">
+          <div class="card mb-4 box-shadow">
             <div class="card-header-two card-header">
               <h4 class="my-0 font-weight-normal">Yeti Bitcoin Level 3</h4>
             </div>
@@ -46,7 +46,7 @@
                 <li>Good Privacy</li>
                 <li>Excellent Inheritance Safety</li>
               </ul>
-              <a class="btn btn-lg btn-block btn-bold" href="http://YetiCold.com">Get Started</a>
+              <a class="btn btn-lg btn-block btn-primary btn-bold" href="http://YetiCold.com">Get Started</a>
             </div>
           </div>
         </div>
